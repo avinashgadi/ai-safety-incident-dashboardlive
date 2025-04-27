@@ -8,7 +8,6 @@ An interactive web dashboard built with React + TypeScript for logging and viewi
 - Filter incidents by severity (All, Low, Medium, High)
 - Sort incidents by date (Newest First / Oldest First)
 - Toggle full description (View Details / Hide)
-- Submit new incident reports with basic validation
 - Responsive layout with clean styling
 
 ## 🛠️ Tech Stack
