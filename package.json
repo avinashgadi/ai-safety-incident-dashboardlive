@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.9.2",
+    "react-hot-toast": "^2.5.2",
+    "react-progressbar": "^15.4.1",
+    "recharts": "^2.15.3"
+  }
+}
